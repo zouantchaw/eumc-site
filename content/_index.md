@@ -1,92 +1,80 @@
 ---
 banner:
-  title: Let us solve your critical website development challenges
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque <br/> totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus
+  title: Programme d'Étudiants Réfugiés (PÉR) UQAM
+  content: Collaborer avec l'EUMC/WUSC pour parrainer des jeunes réfugié·e·s et faciliter leur réinstallation et leurs études à l'UQAM
   image: /images/banner-art.svg
   button:
-    label: "Contact Us"
+    label: "Nous joindre"
     link: "/contact"
 
-# feature
-feature: 
-  title: Something You Need To Know
+# À propos - mission
+mission:
+  title: "Notre mission"
+  content: "Le PÉR-UQAM a été créé en 1990 à l'UQAM. Sa mission est de collaborer avec l'organisme canadien EUMC/WUSC afin de parrainer des jeunes provenant de camps de réfugié·e·s (boursier·ère·s PÉR) de manière à ce qu'elles et qu'ils puissent entamer des études à l'UQAM. Plus précisément, le rôle du PÉR-UQAM consiste à leur donner accès à des études universitaires tout en facilitant leur réinstallation en leur offrant un soutien social, scolaire et financier pour une période minimale de 12 mois. Ce processus permet aux étudiant.es concerné.es d'obtenir la résidence permanente au Canada dès leur arrivée et d'acquérir une autonomie financière, sociale et académique au Québec.<br><br>Parallèlement, au sein de l'Université, une partie des activités du groupe est consacrée au développement des compétences des personnes étudiantes qui interviennent auprès des personnes réfugiées. Nous organisons également des ateliers de sensibilisation pour la communauté universitaire sur les réalités des personnes réfugiées, notamment au sujet des enjeux migratoires et d'intégration au Québec."
+
+# À propos - organisation
+organisation:
+  title: "Notre organisation"
   features:
-  - name: "Clean Code"
-    icon: "/images/code.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-  - name: "Object Oriented"
+  - name: "OBNL"
     icon: "/images/oop.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-  - name: "24h Service"
-    icon: "/images/user-clock.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-  - name: "Value for Money"
-    icon: "/images/love.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-  - name: "Faster Response"
+    content: "Le PÉR-UQAM est un organisme à but non lucratif"
+  - name: "Groupe d'envergure"
     icon: "/images/speedometer.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-  - name: "Cloud Support"
-    icon: "/images/cloud.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+    content: "Reconnu par la Politique n°51 de l'UQAM"
 
-# services
-services:
-  - title: "It is the most advanced digital marketing and it company."
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
-    images:
-      - "/images/service-slide-1.png"
-      - "/images/service-slide-2.png"
-      - "/images/service-slide-3.png"
-    button:
-      enable: true
-      label: Check it out
-      link: /contact
-
-  - title: "It is a privately owned Information and cyber security company"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
-    images: 
-      - "/images/service-slide-1.png"
-    button:
-      enable: true
-      label: Check it out
-      link: /contact
-  
-  - title: "It’s a team of experienced and skilled people with distributions"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
-    images:
-      - "/images/service-slide-1.png"
-      - "/images/service-slide-2.png"
-      - "/images/service-slide-3.png"
-    button:
-      enable: true
-      label: Check it out
-      link: /contact
-
-  - title: "A company standing different from others"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
-    images:
-      - "/images/service-slide-1.png"
-      - "/images/service-slide-2.png"
-      - "/images/service-slide-3.png"
-    button:
-      enable: true
-      label: Check it out
-      link: /contact
-
-# workflow
-workflow: 
-  title: "Experience the best workflow with us"
-  image: "/images/banner.svg"
-  description: ""
+# À propos - équipe
+equipe:
+  title: "Notre équipe"
+  members:
+  - name: "Myriam Bravo"
+    role: "Présidente"
+    content: "[Court texte de présentation]"
+    image: "/images/team/placeholder.png"
+  - name: "Charlotte Bergeron"
+    role: "Vice-présidente"
+    content: "[Court texte de présentation]"
+    image: "/images/team/placeholder.png"
+  - name: "Kathleen Chow"
+    role: "Trésorière"
+    content: "[Court texte de présentation]"
+    image: "/images/team/placeholder.png"
+  - name: "Jérémy Pellerin"
+    role: "Secrétaire"
+    content: "[Court texte de présentation]"
+    image: "/images/team/placeholder.png"
+  - name: "Enora Perez"
+    role: "Responsable du programme académique"
+    content: "[Court texte de présentation]"
+    image: "/images/team/placeholder.png"
+  - name: "Elina Nyandwi"
+    role: "Responsable des communications"
+    content: "[Court texte de présentation]"
+    image: "/images/team/placeholder.png"
+  - name: "Yangchen Sotse"
+    role: "Administratrice"
+    content: "[Court texte de présentation]"
+    image: "/images/team/placeholder.png"
+  - name: "Margaux Bastyns"
+    role: "Responsable au comité social"
+    content: "[Court texte de présentation]"
+    image: "/images/team/placeholder.png"
+  - name: "Gianni Ramazzavi Rajabu"
+    role: "Mentor PÉR"
+    content: "[Court texte de présentation]"
+    image: "/images/team/placeholder.png"
+  - name: "Samuel Légaré-Lalonde"
+    role: "Administrateur"
+    content: "[Court texte de présentation]"
+    image: "/images/team/placeholder.png"
 
 # call_to_action
 call_to_action:
-  title: Ready to get started?
-  content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur.
+  title: Prêt à vous impliquer?
+  content: Rejoignez-nous dans notre mission pour soutenir les étudiants réfugiés à l'UQAM.
   image: '/images/cta.svg'
   button:
     enable: true
-    label: "Contact Us"
+    label: "M'impliquer"
     link: "/contact"
 ---

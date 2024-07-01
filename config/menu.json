@@ -2,7 +2,7 @@
   "main": [
     {
       "name": "À propos du PÉR UQAM",
-      "url": "/a-propos"
+      "url": "/"
     },
     {
       "name": "Réseaux sociaux",
@@ -19,10 +19,6 @@
     {
       "name": "Nous joindre",
       "url": "/contact"
-    },
-    {
-      "name": "M'impliquer",
-      "url": "/impliquer"
     }
   ],
   "footer": [

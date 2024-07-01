@@ -6,6 +6,7 @@ import Faq from "@layouts/Faq";
 import Pricing from "@layouts/Pricing";
 import ReseauxSociaux from "@layouts/Reseaux-Sociaux";
 import Documents from "@layouts/Documents";
+import Cano from "@layouts/Cano";
 import { getRegularPage, getSinglePage } from "@lib/contentParser";
 
 // for all regular pages
@@ -35,6 +36,8 @@ const RegularPages = ({ data }) => {
         <ReseauxSociaux data={data} />
       ) : layout === "documents" ? (
         <Documents data={data} />
+      ) : layout === "cano" ? (
+        <Cano data={data} />
       ) : (
         <Default data={data} />
       )}

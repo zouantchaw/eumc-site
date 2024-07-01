@@ -1,0 +1,85 @@
+{
+  "main": [
+    {
+      "name": "À propos du PÉR UQAM",
+      "url": "/a-propos"
+    },
+    {
+      "name": "Réseaux sociaux",
+      "url": "/reseaux-sociaux"
+    },
+    {
+      "name": "Documents",
+      "url": "/documents"
+    },
+    {
+      "name": "CANO",
+      "url": "/cano"
+    },
+    {
+      "name": "Nous joindre",
+      "url": "/contact"
+    },
+    {
+      "name": "M'impliquer",
+      "url": "/impliquer"
+    }
+  ],
+  "footer": [
+    {
+      "name": "À propos du PÉR UQAM",
+      "menu": [
+        {
+          "text": "Mission",
+          "url": "/a-propos#mission"
+        },
+        {
+          "text": "Organisation",
+          "url": "/a-propos#organisation"
+        },
+        {
+          "text": "Équipe",
+          "url": "/a-propos#equipe"
+        }
+      ]
+    },
+    {
+      "name": "Documents",
+      "menu": [
+        {
+          "text": "Règlements généraux",
+          "url": "/documents#reglements"
+        },
+        {
+          "text": "Politique de confidentialité",
+          "url": "/documents#confidentialite"
+        },
+        {
+          "text": "Procès verbaux",
+          "url": "/documents#proces-verbaux"
+        }
+      ]
+    },
+    {
+      "name": "Liens rapides",
+      "menu": [
+        {
+          "text": "Réseaux sociaux",
+          "url": "/reseaux-sociaux"
+        },
+        {
+          "text": "CANO",
+          "url": "/cano"
+        },
+        {
+          "text": "Nous joindre",
+          "url": "/contact"
+        },
+        {
+          "text": "M'impliquer",
+          "url": "/impliquer"
+        }
+      ]
+    }
+  ]
+}
